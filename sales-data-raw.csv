@@ -1,0 +1,37 @@
+OrderID,Date,SalesPerson,Amount,Product,Region,Column1
+1001,2023-01-05,Alice Smith,$1,000,Laptop,North
+1002,1/6/2023,Bob Jones,$700,Phone,SOUTH,
+1003,2023-01-07,Carol Wang,,Tablet,east,
+1004,07-01-2023,alice smith,1100,Laptop,North,
+1005,2023-01-08,Bob Jones,$700,Phone,SOUTH,
+1006,2023-01-08,,850,Tablet,West,
+1006,2023-01-08,,850,Tablet,West,
+1007,2023/01/08,Scott Rogers,$900,Phone,WEST,
+1008,8-Jan-2023,Linda Moore,$1,250,Laptop,North
+1009,2023-01-10,James Wood,"$1,200",Laptop,EAST,
+1010,11/1/2023,alicia keys,,Tablet ,south,
+1011,20230112,Bob Jones,$700,Phone,South,
+1012,15-01-2023,Carol Wang,820,Tablet,EAST,
+1013,2023-01-16,JAMES WOOD,1300,Laptop,NORTH,
+1014,17/01/2023,Anna Bell,650,Phone,west,
+1015,2023/01/18,Alice Smith,$1,000,Laptop,NORTH
+1016,19-01-2023,Bob Jones,690,Phone,South,
+1017,2023-01-20,,,Tablet,west,
+1018,1/21/2023,Bob Jones,$700,Phone,South,
+1019,2023-01-22,Linda Moore,,Tablet,East,
+1020,23/01/2023,Scott Rogers,$880,Phone,NORTH,
+1021,24-01-2023,Caroline Li,750,Phone,SouTH,
+1022,25/01/23,BOB JONES ,800,Tablet,east,
+1023,2023-01-26,Anna Bell,$690,Phone,West,
+1024,2023-Jan-28,James Wood,$1,200,Laptop,NORTH
+1025,2023/01/29,alicia keys,$900,Tablet,South,
+1026,30-01-2023,Anna Bell,650,Phone,WEST,
+1026,30-01-2023,Anna Bell,650,Phone,WEST,
+1027,31-01-2023,,830,Tablet,north,
+1028,2023-02-01,Carol Wang,$900,Laptop,East,
+1029,2/2/2023,SCOTT ROGERS,950,Phone,south,
+1030,2023/02/03,Bob Jones,$700,Phone,North,
+1031,4-Feb-2023,,720,Tablet,west,
+1032,2023-02-05,Linda Moore,"$1,150",Laptop,EAST,
+1033,2/6/2023,Anna Bell,830,Phone,South,
+1034,2023-02-07,Bob Jones,$1,000,Laptop,West
